@@ -10,3 +10,10 @@ langchain-core
 transformers
 torch
 numpy
+langchain
+langchain-openai
+python-dotenv
+python-multipart
+pandas
+scikit-learn
+openai
